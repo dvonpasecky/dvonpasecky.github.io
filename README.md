@@ -1,2 +1,4 @@
 # dvonpasecky.github.io
-theme: jekyll-theme-minimal
+
+# Original Theme:
+`theme: jekyll-theme-minimal`
